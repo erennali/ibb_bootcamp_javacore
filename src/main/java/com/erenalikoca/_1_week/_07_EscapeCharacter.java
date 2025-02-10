@@ -1,6 +1,6 @@
 package com.erenalikoca._1_week;
 
-public class _04_JavaWrapperTypes {
+public class _07_EscapeCharacter {
     public static void main(String[] args) {
 
     }
